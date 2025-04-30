@@ -1,4 +1,4 @@
-# Biostat_Inference_Bootstrap
+# Biostatistical Inference Bootstrap
 
 This is a homework assignment for PUBH 7406: Biostatistical Inference II. The assignment focuses on practical application of bootstrap techniques from a statistical perspective. It explores the applications of bootstrap methods in statistical analysis and consists of two main exercises:
 
